@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 • Estudante de Segurança da Informação e GameHacking ⚡
 
-• É melhor ativar o Firewall 
-
 
   public static void Main(string[] args)
   {
