@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 • É melhor ativar o Firewall 
 
+
   public static void Main(string[] args)
   {
+  
     string Discord = "andreyyh#4668";
     string linkDC = "https://discord.gg/UCydXvjMRu"
     string Twitter = "None";
