@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #include 
+
+
+•Estudante de Segurança da Informação, no meu hobbie curto GameHacking.
+Discord: andreyyh#4668
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
