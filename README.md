@@ -16,22 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-• C#, Lua e Python apenas😎 
+soon...
 
-• Estudante de Segurança da Informação e GameHacking ⚡
-
-
-  public static void Main(string[] args)
-  {
-  
-    string Discord = "andreyyh#4668";
-    string linkDC = "https://discord.gg/UCydXvjMRu"
-    string Twitter = "None";
-    string Instagram = "None";
-    
-    Console.WriteLine("Chama no discord: " + Discord + " entrem no grupo Switch Hacking: " + linkDC");
-    Console.ReadLine();
-  }
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://c.tenor.com/Frl3OPOOztUAAAAC/pornhub-intro-download.gif)
 
