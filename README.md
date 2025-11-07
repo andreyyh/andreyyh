@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-soon...
-
-![Alt Text](https://c.tenor.com/Frl3OPOOztUAAAAC/pornhub-intro-download.gif)
-
