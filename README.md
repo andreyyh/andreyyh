@@ -24,12 +24,6 @@
 ### 📊 Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=andreyyh&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00a3ff&title_color=00a3ff&text_color=8b949e&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyyh&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00a3ff&text_color=8b949e" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=andreyyh&theme=github-dark-blue&background=0d1117&border=30363d&ring=00a3ff&fire=ff3860&currStreakLabel=00a3ff&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
