@@ -17,3 +17,29 @@
 ### ⚙️ Low-Level & Reverse Engineering
 - **Languages:** `C++` | `C#` | `Assembly (x86/x64)`
 - **Specialties:** `Reverse Engineering` | `Software Protection` | `Memory Manipulation`
+
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=andreyyh&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00a3ff&title_color=00a3ff&text_color=8b949e&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyyh&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00a3ff&text_color=8b949e" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=andreyyh&theme=github-dark-blue&background=0d1117&border=30363d&ring=00a3ff&fire=ff3860&currStreakLabel=00a3ff&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyyh&bg_color=0d1117&color=00a3ff&line=00a3ff&point=ff3860&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+<code>// built different since day 0x01</code>
+</div>
